@@ -12,3 +12,11 @@
 | Desktop      | Mobile       |
 |--------------|--------------|
 | ![challenge02-01.png](./docs/challenge02-01.png) | ![challenge02-02.png](./docs/challenge02-02.png) |
+
+```css
+.container {
+    width: 80%;
+    max-width: 750px;
+    margin: 0 auto;
+}
+```
