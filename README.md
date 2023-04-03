@@ -28,3 +28,7 @@
 | ![challenge02-01.png](./docs/challenge03-01.png) | ![challenge03-02.png](./docs/challenge02-02.png) |
 
 ## Flexbox Challenge 01 
+
+| Desktop                                                                       | Mobile                                                                      |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![flexbox-challenge-01-desktop.png](docs%2Fflexbox-challenge-01-desktop.png)  | ![flexbox-challenge-01-mobile.png](docs%2Fflexbox-challenge-01-mobile.png)  | 

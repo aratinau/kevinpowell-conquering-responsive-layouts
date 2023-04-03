@@ -29,6 +29,10 @@ body {
     font-size: 1.3rem;
 }
 
+img {
+    max-width: 100%;
+}
+
 h1 {
     font-size: 3rem;
 }
@@ -90,10 +94,15 @@ footer .col {
 
 .hero__text {
     width: 60%;
+    background: yellow;
 }
 
 .hero p {
     margin-bottom: 3em;
+}
+
+.hero__img {
+    align-self: flex-start;
 }
 
 .three-col__title {
