@@ -31,4 +31,16 @@
 
 | Desktop                                                                       | Mobile                                                                      |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![flexbox-challenge-01-desktop.png](docs%2Fflexbox-challenge-01-desktop.png)  | ![flexbox-challenge-01-mobile.png](docs%2Fflexbox-challenge-01-mobile.png)  | 
+| ![flexbox-challenge-01-desktop.png](./docs/flexbox-challenge-01-desktop.png)  | ![flexbox-challenge-01-mobile.png](./docs/flexbox-challenge-01-mobile.png)  | 
+
+## Flexbox Challenge 02
+
+![flexbox-challenge-02-desktop.png](./docs/flexbox-challenge-02-desktop.png)
+
+## Flexbox Challenge 02 Solution
+
+![flexbox-challenge-02-desktop-solution.png](./docs/flexbox-challenge-02-desktop-solution.png)
+
+## Flexbox Challenge 03
+
+![flexbox-challenge-03-desktop.png](./docs/flexbox-challenge-03-desktop.png)
