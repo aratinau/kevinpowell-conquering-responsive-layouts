@@ -43,7 +43,9 @@
 
 ## Flexbox Challenge 03
 
-![flexbox-challenge-03-desktop.png](./docs/flexbox-challenge-03-desktop.png)
+| Desktop                                                                       | Mobile                                                                     |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![flexbox-challenge-03-desktop.png](./docs/flexbox-challenge-03-desktop.png)  | ![flexbox-challenge-03-mobile.png](./docs/flexbox-challenge-03-mobile.png) | 
 
 ## Flexbox Challenge 04
 
