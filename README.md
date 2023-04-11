@@ -44,3 +44,7 @@
 ## Flexbox Challenge 03
 
 ![flexbox-challenge-03-desktop.png](./docs/flexbox-challenge-03-desktop.png)
+
+## Flexbox Challenge 04
+
+![flexbox-challenge-04-desktop.png](./docs/flexbox-challenge-04-desktop.png)

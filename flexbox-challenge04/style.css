@@ -1,0 +1,115 @@
+/*
+////// For this challenge ///////
+
+- All text is in the text.md file
+
+// Requirements
+   1. Get all the navigation items next to one another
+   2. Add a space between all the items
+*/
+
+:root {
+    /* colors */
+    --color-parchment: #F3EED9;
+    --color-ironstone: #824936;
+    --color-outer-space: #222C2A;
+
+    /* font-families */
+    --ff-sans-serif: 'Roboto', sans-serif;
+    --ff-serif: "Playfair Display", serif;
+}
+
+.bg-color-parchment {
+    background-color:#F3EED9 ;
+}
+.bg-color-ironstone {
+    background-color:#824936 ;
+}
+.bg-color-outer-space {
+    background-color:#222C2A ;
+}
+
+.color-parchment {
+    color:#F3EED9 ;
+}
+.color-ironstone {
+    color:#824936 ;
+}
+.color-outer-space {
+    color:#222C2A ;
+}
+
+
+.color-white {
+    color: white;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: var(--ff-sans-serif);
+    font-size: 1.3rem;
+}
+
+section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: var(--ff-serif);
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 0;
+    color: var(--color-ironstone);
+}
+
+h3 {
+    font-family: var(--ff-sans-serif);
+    font-weight: 100;
+}
+
+header {
+    padding: 10rem;
+}
+
+.container {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col {
+    /* these are now flex items */
+    width: 100%;
+}
+
+.col + .col {
+    margin-left: 30px;
+}
