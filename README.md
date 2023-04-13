@@ -50,3 +50,10 @@
 ## Flexbox Challenge 04
 
 ![flexbox-challenge-04-desktop.png](./docs/flexbox-challenge-04-desktop.png)
+
+## Flexbox Challenge 04 Solution
+
+
+| Desktop                                                                                        | Mobile                                                                                       |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| ![flexbox-challenge-04-solution-desktop.png](./docs/flexbox-challenge-04-solution-desktop.png) | ![flexbox-challenge-04-solution-mobile.png](./docs/flexbox-challenge-04-solution-mobile.png) | 
