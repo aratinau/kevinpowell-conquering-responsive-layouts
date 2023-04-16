@@ -1,5 +1,7 @@
 # Kevin Powell - Conquering Responsive Layouts
 
+https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts
+
 ## Challenge 01
 
 | Desktop      | Mobile       |
@@ -61,3 +63,9 @@
 ## Navigation Challenge
 
 ![navigation-challenge.png](./docs/navigation-challenge.png)
+
+## Last Challenge
+
+| Desktop                                                                 | Mobile                                                                |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| ![last-challenge-desktop.png](./docs/last-challenge-desktop.png) | ![last-challenge-mobile.png](./docs/last-challenge-mobile.png) |
